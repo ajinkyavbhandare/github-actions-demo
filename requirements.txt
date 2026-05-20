@@ -1,2 +1,4 @@
 pytest-cov
 pylint
+fastapi
+asyncio
